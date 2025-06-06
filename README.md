@@ -1,7 +1,7 @@
 ### Olá, eu sou Leonardo Oliveira 👋
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-alc%C3%A2ntara-6b5795232/)
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=abreuwilliam&show_icons=true&theme=radical)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Beavisoliver&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia 👨🏻‍💻
 <div style="display: inline_block"><br/>
